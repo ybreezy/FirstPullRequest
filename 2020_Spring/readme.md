@@ -32,7 +32,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Chae, Jeong Hoon
 
-- [x ] Chawla, Mallika - yo slim shady 
+- [x ] Chawla, Mallika - yo slim shady - Will the real slim shady please stand up (@ybreezy)
 
 - [ ] Choque, Gonzalo
 
