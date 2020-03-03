@@ -20,7 +20,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Atwood, Samuel
 
-- [ ] Bai, Yan
+- [X] Bai, Yan (@ybreezy)
 
 - [ ] Basu, Debroop
 
@@ -60,7 +60,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Lee, Jay
 
-- [X] Li, Joey (@isojoey)
+- [ ] Li, Joey
 
 - [ ] Li, Wei
 
